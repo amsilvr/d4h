@@ -2,4 +2,4 @@
 
 ![Book logo](/d4h/assets/img/Durkan/Durkan Hero.png)
 
-<img src="img/Durkan/Durkan Hero.png">
+<img src="/images/Durkan/Durkan_Hero.png">
