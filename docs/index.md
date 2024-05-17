@@ -2,7 +2,6 @@
 
 <img src="https://amsilvr.github.io/d4h/assets/images/Durkan/Durkan_Hero.png" alt="lasagna">
 
-
     <tableau-viz
       src="https://prod-useast-a.online.tableau.com/#/site/mindclick/views/VendorChangesReport-Draft/YoY-Embedded"
       device="desktop"
